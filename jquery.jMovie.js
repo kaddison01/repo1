@@ -105,12 +105,12 @@
 	    /**
 	     * default setting for player width
 	     */
-	    width: 512,
+	    width: 1024,
 	    
 	    /**
 	     * default setting for player height
 	     */
-            height: 512,
+            height: 1024,
 	    
 	    /**
 	     * array to hold urls for images
