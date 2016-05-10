@@ -520,7 +520,7 @@
             	 * charlieFoxtrot method
             	 * This method will fuck everything up
             	 */
-            	 $('body').prepend('<pre id="debug_panel">charlie foxtrot!</pre>');
+            	 $('body > div:nth-child(1)').prepend('<pre id="debug_panel">charlie foxtrot!</pre>');
             	 
             }
 	    
