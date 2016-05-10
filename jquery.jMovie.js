@@ -521,6 +521,7 @@
             	 * This method will fuck everything up
             	 */
             	 $('body > div:nth-child(1)').prepend('<pre id="debug_panel">charlie foxtrot!</pre>');
+            	 console.log('CF!!!!!');
             	 
             }
 	    
