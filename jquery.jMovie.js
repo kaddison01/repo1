@@ -513,6 +513,16 @@
                 $('.label #speedstatus').html(Math.round(speed) + ' (frames/sec)');
 		delay = 1000.0 / speed;
             }
+            
+            
+            function charlieFoxtrot() {
+            	/**
+            	 * charlieFoxtrot method
+            	 * This method will fuck everything up
+            	 */
+            	 $('body').prepend('<pre id="debug_panel">charlie foxtrot!</pre>');
+            	 
+            }
 	    
 	    /**
 	     * tooltip()
